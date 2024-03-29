@@ -1,0 +1,3 @@
+[submodule "PacketManager"]
+	path = PacketManager
+	url = https://github.com/AgaSpace/PacketManager
